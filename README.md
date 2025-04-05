@@ -80,7 +80,7 @@ The dataset contains customer booking data with features such as:
 ---
 
 ## 📂 Folder Structure
-
+project-root/ │ ├── customer_booking_prediction.ipynb # Main notebook ├── README.md # This file ├── customer_booking.csv # Dataset ├── images/ │ └── feature_importance.png 
 
 ---
 
